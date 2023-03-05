@@ -1,0 +1,4 @@
+#Sun Mar 05 21:20:22 AEDT 2023
+base.0=/home/dhannah/AndroidStudioProjects/i_am_poor/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

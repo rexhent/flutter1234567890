@@ -1,0 +1,12 @@
+com.rexhent.i_am_poor.app-jetified-window-java-1.0.0-beta04-0 /home/dhannah/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.rexhent.i_am_poor.app-core-1.6.0-1 /home/dhannah/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.rexhent.i_am_poor.app-jetified-annotation-experimental-1.1.0-2 /home/dhannah/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.rexhent.i_am_poor.app-jetified-window-1.0.0-beta04-3 /home/dhannah/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.rexhent.i_am_poor.app-main-4 /home/dhannah/AndroidStudioProjects/i_am_poor/android/app/src/main/res
+com.rexhent.i_am_poor.app-release-5 /home/dhannah/AndroidStudioProjects/i_am_poor/android/app/src/release/res
+com.rexhent.i_am_poor.app-pngs-6 /home/dhannah/AndroidStudioProjects/i_am_poor/build/app/generated/res/pngs/release
+com.rexhent.i_am_poor.app-resValues-7 /home/dhannah/AndroidStudioProjects/i_am_poor/build/app/generated/res/resValues/release
+com.rexhent.i_am_poor.app-rs-8 /home/dhannah/AndroidStudioProjects/i_am_poor/build/app/generated/res/rs/release
+com.rexhent.i_am_poor.app-mergeReleaseResources-9 /home/dhannah/AndroidStudioProjects/i_am_poor/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.rexhent.i_am_poor.app-mergeReleaseResources-10 /home/dhannah/AndroidStudioProjects/i_am_poor/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.rexhent.i_am_poor.app-merged_res-11 /home/dhannah/AndroidStudioProjects/i_am_poor/build/app/intermediates/merged_res/release
